@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.testimonials-bg-container {
+    background-color: #1f2933;
+    padding-top: 44px;
+    padding-bottom: 44px;
+}
+
+.testimonial-side-heading {
+    color: #cced00;
+    font-size: 24px;
+}
+
+.testimonial-main-heading {
+    color: #ffffff;
+}
+
+.testimonial-card {
+    background-color: #323f4b;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.testimonial-images {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+
+.testimonial-description {
+    color: #9aa5b1;
+}
+
+.testimonial-heading {
+    color: #ffffff;
+    font-size: 24px;
+}
